@@ -7,7 +7,7 @@ In an attempt to gain a deeper understanding of how Endpoint devices on an organ
 * I master how to deploy and configure Wazuh-Manager for various security alerts of my interest(depending on the organization's needs)
 * I have mastered how to configure the Ossec-agent file for various security event monitoring.
 * I mastered how to configure the firewall for traffic on any port
-* I master how to read the event log on wazuh and find out IOC(INDICATOR OF COOPROMISE)
+* I master how to read the event log on Wazuh and find out IOC(INDICATOR OF COOPROMISE)
 * I have mastered how to configure the index rule for events of interest.
 
 
@@ -15,6 +15,7 @@ In an attempt to gain a deeper understanding of how Endpoint devices on an organ
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Infrastructure-blue?logo=google-cloud&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-Windows%20Monitoring-important?logo=windows&logoColor=white)
 ![Wazuh SIEM](https://img.shields.io/badge/Wazuh%20SIEM-Open%20Source%20Security-brightgreen?logo=wazuh&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-Threat%20Analysis-red?logo=virustotal&logoColor=white)
 
 
 
