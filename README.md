@@ -1,4 +1,4 @@
-# SOC AUTOMATION
+# SIEM TOOLS DEPLOYMENT FOR THREAT AND ACTIVE RESPONSE
 
 ### OBJECTIVE
 In an attempt to gain a deeper understanding of how Endpoint devices on an organization's network are effectively secured (as part of my SOC analyst training), I took on the challenge of learning how to use SIEM tools like Wazuh and Splunk with Sysmon to visualize all security events on endpoint devices—making it flexible to detect threats, vulnerabilities and compliance related issue. 
